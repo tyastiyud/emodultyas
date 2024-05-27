@@ -1,0 +1,2317 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="49"><page Index="1"><![CDATA[UNIVERSITAS MULAWARMAN
+             Pascasarjana Pendidikan Kimia
+
+
+
+
+
+
+
+
+          STRUKTUR ATOM &
+
+
+
+          KEUNGGULAN NANOMATERIAL
+
+
+
+
+          Edisi Melatih Keterampilan Berpikir Kritis
+
+
+
+
+
+                     Pembimbing I                                               Pembimbing II
+                Dr. Farah Erika, M.Si                                   Dr. H. Riskan Qadar, M.Si
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            SMA
+                           Fase E
+                          X
+
+
+
+
+
+
+
+
+
+                    Dwi Agusningtyas, S.Pd]]></page><page Index="2"><![CDATA[Kata Pengantar                                                                                 ii
+
+
+
+
+
+             Assalamu'alaikum Warrahmatullahi Wabarakatuh.
+
+
+             Puji  syukur  kami  panjatkan  kehadirat  Allah  SWT,  yang  telah  melimpahkan  rahmat  dan
+
+             karunia-Nya  sehingga  e-modul  interaktif  ini  dapat  terselesaikan  sebagai  bagian  dari  Tugas
+             Akhir Tesis di Program Studi Magister Pendidikan Kimia Universitas Mulawarman. Dalam
+             kesempatan yang berbahagia ini, kami ingin menyampaikan ucapan terima kasih yang sebesar-
+             besarnya  kepada  semua  pihak  yang  telah  membantu  dan  mendukung  kami  dalam  proses
+
+             penelitian  ini.  Terkhusus  kepada  Dosen  Pembimbing,  terima  kasih  atas  bimbingan,  arahan,
+             dan  dukungan  yang  luar  biasa  selama  pelaksanaan  penelitian  ini.  Terima  kasih  juga  kepada
+             seluruh Validator, Guru, dan Siswa/i yang telah berpartisipasi dalam uji coba e-modul ini serta
+             memberikan masukan yang berharga bagi penyempurnaan konten dan fitur e-modul.
+
+
+
+             Perlu  diketahui  bahwa  penyusunan  E-modul  ini  merupakan  hasil  tindak  lanjut  dari  analisis
+             kebutuhan  terhadap  pembelajaran  di  era  digital,  yang  menunjukkan  bahwa  siswa  dan  guru
+             membutuhkan  media  interaktif  dalam  mengatasi  kesulitan  belajar,  terutama  pada  materi
+
+             Struktur Atom dan Keunggulan Nanomaterial. Semoga e-modul ini dapat menjadi salah satu
+             alternatif  yang  efektif  dalam  meningkatkan  pemahaman  dan  melatih  keterampilan  berpikir
+             kritis siswa dalam materi tersebut.
+
+
+
+             Kami  sadar  bahwa  penyusunan  e-modul  ini  belum  sempurna,  sehingga,  kami  sangat
+             mengharapkan masukan dan saran yang membangun dari semua pihak demi perbaikan dan
+             pengembangan e-modul ini ke depannya. Semoga e-modul interaktif ini dapat memberikan
+             manfaat yang besar bagi para pembelajar di berbagai sekolah dan menjadi langkah awal dalam
+
+             pengembangan  lebih  lanjut  di  masa  mendatang.  Akhir  kata,  kami  mohon  maaf  atas  segala
+             keterbatasan  dan  kekurangan  yang  ada  dalam  e-modul  ini.  Semoga  Allah  SWT  senantiasa
+             memberkahi langkah-langkah kita dalam mencerdaskan anak bangsa. Amiin.
+
+
+
+             Wassalamu’alaikum Warrahmatullahi Wabarakatuh.
+                                                                              Balikpapan,    Maret 2024
+
+
+
+
+
+                                                                              Penulis]]></page><page Index="3"><![CDATA[Karakteristik E-Modul                                                                        iii
+
+
+
+
+
+                                                         Perangkat & Koneksi
+
+                                            E-modul  ini  dirancang  untuk  digunakan  dengan  berbagai  perangkat,
+                                            seperti  PC,  tablet,  atau  smartphone,  yang  dapat  diakses  baik  secara
+                                            online  maupun   offline.  Jika  mengakses  melalui  browser,  pengguna
+                                            dapat langsung menuju alamat
+                                            https://itch.io/profile/dwiagusningtyas95, sedangkan untuk
+                                            penggunaan  offline,  aplikasi  sudah  tersedia  dan  dapat  diinstal  melalui
+                                            drive yang disediakan.
+
+
+                                                                Keterampilan
+
+                                            E-modul dirancang untuk pembelajaran mandiri. Materi dan kegiatan yang
+                                            disajikan  telah  disesuaikan  dengan  indikator  keterampilan  berpikir  kritis
+                                            menurut  Facione. Dengan demikian, belajar melalui modul ini tidak hanya
+                                            akan  meningkatkan  pemahaman  materi,  tetapi  juga  dapat  mengasah
+                                            keterampilan berpikir kritis siswa. Hal ini sejalan dengan karakter pelajar
+                                            Mandiri  yang  merupakan  salah  satu  profil  pelajar  pancasila,  yang
+                                            diharapkan dapat ditanamkan melalui pembelajaran ini.
+
+
+                                                               Interaktivitas
+
+
+                                            Tidak hanya mengandalkan aplikasi   Flip   PDF   Corporate  Edition, namun
+                                            telah terintegrasi dengan berbagai platform pembelajaran, seperti  Wordwall,
+                                                                Form, dan  YouTube. Keterlibatan ini diharapkan
+                                            Liveworksheets,  Google
+                                            dapat  meningkatkan  interaktivitas pembelajaran,  memperkaya  pengalaman
+                                            belajar siswa, dan memfasilitasi berbagai jenis aktivitas pembelajaran. Guru
+                                            juga  dapat  memantau  perkembangan  serta  hasil  belajar  siswa  selama
+                                            penggunaan e-modul ini.
+
+
+                                                                 Fleksibilitas
+
+
+                                            E-modul ini memungkinkan akses kapan saja dan di mana saja sesuai
+                                            dengan kebutuhan pembelajaran. Dirancang dengan periode yang tepat
+                                            dan sistematis, siswa dapat mengatur waktu belajar mereka sendiri tanpa
+                                            terbatas  oleh  keterbatasan  waktu  dan  lokasi.  Fleksibilitas  ini
+                                            memungkinkan  siswa  untuk  belajar  dengan  cara  yang  paling  nyaman
+                                            bagi mereka, sehingga mendukung proses pembelajaran yang efektif dan
+                                            efisien.
+
+
+                                                                   Penilaian
+
+                                            Tersedia beragam fitur penilaian yang membantu siswa dalam memantau
+                                            kemajuan belajar mereka. E-modul juga dilengkapi dengan refleksi diri,
+                                            latihan  soal  dan  pembahasan,  serta  tes  formatif,  sehingga
+                                            memberikan  kesempatan  bagi  siswa  untuk  mengevaluasi  pemahaman
+                                            mereka secara mandiri. Selain itu, tersedia Kriteria Ketercapaian Tujuan
+                                            Pembelajaran  (KKTP),  sehingga  siswa  dapat  mengetahui  dengan  jelas
+                                            tingkat pemahaman mereka.]]></page><page Index="4"><![CDATA[Petunjuk Penggunaan                                                                           iv
+
+
+
+
+                                                        Guru
+
+
+
+                    Memilih Akses                  Memilih Perangkat                      Membaca
+                                                                                    Petunjuk Penggunaan
+
+
+
+
+
+
+
+
+
+                  Membimbing siswa                                                      Menentukan
+                 mengerjakan aktivitas            Melakukan Apersepsi              Aktivitas Pembelajaran
+
+
+
+
+
+
+
+
+                  Memantau latihan                   Memandu siswa                      Menganalisis
+                 yang dikerjakan siswa           melakukan Refleksi Diri             Hasil Belajar Siswa
+                                                 & mengerjakan Evaluasi
+
+
+
+
+
+
+
+
+
+                                                           Siswa
+
+
+
+                    Memilih Akses                  Memilih Perangkat                     Membaca
+                                                                                   Petunjuk Penggunaan
+
+
+
+
+
+
+
+
+
+
+                Mengerjakan Aktivitas                Literasi Materi                   Menentukan
+                                                                                  Aktivitas Pembelajaran
+
+
+
+
+
+
+
+
+                     Mengerjakan                  Melakukan Refleksi /                Review Materi /
+                     Latihan Soal                     Evaluasi Diri               melanjutkan ke Aktivitas
+                                                                                         berikutnya]]></page><page Index="5"><![CDATA[Daftar Isi                                                                                    v
+
+
+
+
+
+
+             COVER ...................................................................................................................................................  i
+             KATA PENGANTAR ........................................................................................................................  ii
+
+             KARAKTERISTIK E-MODUL ....................................................................................................... iii
+             PETUNJUK PENGGUNAAN ........................................................................................................ iv
+             DAFTAR ISI .......................................................................................................................................... v
+
+             CAPAIAN PEMBELAJARAN & PETA KONSEP ..................................................................... vi
+             ASESMEN DIAGNOSTIK KOGNITIF ...................................................................................... vii
+             UNIT 1 : Perkembangan Teori Atom ............................................................................. 1
+             A. Tujuan Pembelajaran ........................................................................................................................ 1
+             B. Pendahuluan ....................................................................................................................................... 1
+             C. Lembar Aktivitas ............................................................................................................................... 2
+             D. Rangkuman ...................................................................................................................................... 15
+             E. Latihan Soal ..................................................................................................................................... 16
+             F. Tes Formatif ..................................................................................................................................... 17
+             G. Kunci dan Pembahasan ................................................................................................................. 18
+             H. Refleksi Diri ..................................................................................................................................... 19
+             UNIT 2 : Konfigurasi Elektron dalam Atom ................................................................ 20
+             A. Tujuan Pembelajaran ...................................................................................................................... 20
+             B. Pendahuluan ..................................................................................................................................... 20
+             C. Lembar Aktivitas ............................................................................................................................. 21
+             D. Rangkuman ...................................................................................................................................... 24
+             E. Latihan Soal ..................................................................................................................................... 24
+             F. Tes Formatif ..................................................................................................................................... 25
+             G. Kunci dan Pembahasan ................................................................................................................. 26
+             H. Refleksi Diri ..................................................................................................................................... 27
+             UNIT 3 : Nanomaterial dan Aplikasinya ..................................................................... 28
+             A. Tujuan Pembelajaran ...................................................................................................................... 28
+             B. Pendahuluan ..................................................................................................................................... 28
+             C. Lembar Aktivitas ............................................................................................................................. 29
+             D. Rangkuman ...................................................................................................................................... 31
+             E. Latihan Soal ..................................................................................................................................... 32
+             F. Tes Formatif ..................................................................................................................................... 33
+             G. Kunci dan Pembahasan ................................................................................................................. 34
+             H. Refleksi Diri ..................................................................................................................................... 35
+             KRITERIA KETERCAPAIAN TUJUAN PEMBELAJARAN (KKTP) ................................ 36
+             GLOSARIUM ...................................................................................................................................... 37
+             BIOGRAFI PENULIS ....................................................................................................................... 41
+
+             DAFTAR PUSTAKA ......................................................................................................................... 42]]></page><page Index="6"><![CDATA[Capaian Pembelajaran & Peta Konsep                                                           vi
+
+
+
+
+
+
+              Capaian Umum
+
+
+             Pada  akhir fase E, peserta didik memliki kemampuan untuk merespon isu-isu global  dan  berperan
+             aktif  dalam  memberikan  penyelesaian  masalah.  Kemampuan  tersebut  antara  lain  mengidentifikasi,
+             mengajukan gagasan, merancang solusi, mengambil keputusan, dan mengkomunikasikan dalam bentuk
+             projek  sederhana  atau  simulasi  visual  menggunakan  aplikasi  teknologi  yang  tersedia  terkait  dengan
+             nanoteknologi  dan  kimia  dalam  kehidupan  sehari-hari.  Semua  upaya  tersebut  diarahkan  pada
+             pencapaian tujuan pembangunan yang berkelanjutan (Sustainable Development Goals/SDGs). Melalui
+             pengembangan sejumlah pengetahuan tersebut dibangun pula akhlak mulia dan sikap ilmiah seperti
+             jujur, objektif, bernalar kritis, kreatif, mandiri, inovatif, bergotong royong, dan berkebhinekaan global.
+
+
+              Capaian Per Elemen
+
+
+             Peserta didik mampu mengamati, menyelidiki dan menjelaskan fenomena sesuai kaidah kerja ilmiah
+             dalam  menjelaskan  konsep  kimia  dalam  kehidupan  sehari  hari;  menerapkan  konsep  kimia  dalam
+             pengelolaan lingkungan termasuk menjelaskan fenomena pemanasan global; menuliskan reaksi kimia
+             dan  menerapkan  hukum-hukum  dasar  kimia;  memahami  struktur  atom  dan  aplikasinya  dalam
+             nanoteknologi.
+
+
+              Peta Konsep]]></page><page Index="7"><![CDATA[Asesmen Diagnostik Kognitif                                                                  vii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           PEDOMAN PENILAIAN=
+
+                                          Nilai = Jumlah jawaban benar  x 100%
+                                                           10
+
+
+
+                             KRITERIA PEMAHAMAN (PENGELOMPOKAN SISWA)]]></page><page Index="8"><![CDATA[UNIT
+
+
+
+                                                                                            1
+                          Perkembangan Teori Atom
+
+                                                                             A.  Tujuan Pembelajaran
+
+                                                                             1.  Menganalisis kontribusi
+
+                                                                                tokoh-tokoh dalam
+                                                                                perkembangan teori atom
+                                                                                untuk memahami konsep
+
+                                                                                dasar struktur atom.
+                                                                             2.  Merumuskan struktur
+
+                                                                                atom berdasarkan partikel
+                                                                                penyusun atom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               B.    Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    VIDEO YOUTUBE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            1]]></page><page Index="9"><![CDATA[Unit 1 : Perkembangan Teori Atom   2
+
+
+
+               C.    Lembar Aktivitas
+
+                     Perjalanan teori atom dari zaman kuno hingga era modern telah melalui transformasi yang
+               signifikan. Mulai dari konsep atom pertama kali diajukan oleh filsuf Yunani kuno Demokritus, yang
+
+               memandang atom sebagai partikel tak terbagi yang merupakan dasar dari semua materi, hingga
+               perkembangan teori mekanika kuantum yang lebih kompleks pada abad ke-20, yang menunjukkan
+
+               bahwa  atom  terdiri  dari  partikel  subatomik  yang  memiliki  sifat  dualitas  gelombang-partikel.
+               Perjalanan ini juga melibatkan kontribusi penting dari ilmuwan seperti Dalton, Thomson, Rutherford,
+
+               Bohr, dan Schrödinger, yang masing-masing menyumbangkan pemahaman baru tentang struktur dan
+               perilaku atom. Berdasarkan video pendahuluan sebelumnya, kerjakan aktivitas berikut untuk lebih
+
+               memahami tentang Sejarah Perkembangan Atom !
+
+                                                  LIVEWORKSHEET 1
+
+                                                   (Aktivitas 1.1 dan 1.2)]]></page><page Index="10"><![CDATA[3    Unit 1 : Perkembangan Teori Atom
+
+
+
+                     Agar  lebih  meyakinkan  dalam  menjawab  Aktivitas  1.2  ,  cermati  kembali  materi
+
+               perkembangan atom berikut ini dan kerjakan kembali aktivitas-aktivitas berikutnya!
+
+               Teori Atom Dalton
+
+
+                                             Pada  tahun  1807  banyak  dari  hipotesis  Dalton  (Gambar  1.1)
+                                             tentang  fitur  mikroskopis  materi.  Berikut  adalah  postulat  teori
+
+                                             atom Dalton.
+
+                                             1.  Atom adalah unit terkecil yang tidak dapat dibagi lagi.
+                                             2.  Atom  dari  satu  unsur  memiliki  sifat  yang  identik,  tetapi
+                          Gambar 1.1
+                   John Dalton FRS, Penemu Teori   berbeda sifatnya dari atom pada unsur lainnya, seperti yang
+                    Atom dengan Model Bola Pejal
+                          (Sumber :
+                   https://fatek.umsu.ac.id/apa-itu-  diberikan pada Gambar 1.2.
+                       teori-atom-dalton/)
+
+
+
+
+
+
+
+
+
+
+
+
+                    Gambar 1.2 Sebuah koin tembaga mengandung sekitar 3 × 10  atom tembaga, yang masing-masing memiliki
+                                                                     22
+                                                    sifat kimia yang sama
+                                              (Sumber : https://courses.lumenlearning.com/)
+               3.    Sebuah senyawa terdiri dari atom (dua atau lebih unsur) yang dikombinasikan dalam rasio
+
+                     bilangan bulat sederhana. Dalam suatu senyawa tertentu, jumlah atom dari masing-masing
+                     unsurnya selalu hadir dalam rasio yang sama, seperti yang diberikan pada Gambar 1.3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                               Tembaga(II) oksida , CuO
+
+
+
+                      Gambar 1.3 Padatan Tembaga(II) oksida dihasilkan dari kombinasi dua jenis atom—Tembaga (bola coklat)
+                                              dan oksigen (bola merah) — dalam rasio 1:1.
+                                                   (Sumber : https://en.m.wikipedia.org/ )
+               4.    Atom tidak diciptakan atau dihancurkan, sehingga sebuah reaksi kimia hanya merupakan
+
+                     penataan ulang atom-atom yang memberikan kombinasi baru untuk menghasilkan zat yang
+
+                     berbeda dari sebelumnya. Hal ini memberikan asumsi bahwa jika atom tidak diciptakan atau]]></page><page Index="11"><![CDATA[Unit 1 : Perkembangan Teori Atom   4
+
+
+
+                     dihancurkan selama  perubahan kimia, maka massa total  materi yang  hadir ketika materi
+
+                     berubah dari satu jenis ke jenis lain akan tetap konstan (Hukum Kekekalan Massa) (Gambar
+                     1.4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          Partikel                    Senyawa
+                                     Tembaga dan Oksigen          Tembaga(II) oksida
+                      Gambar 1.4 Ketika unsur-unsur besi (padatan cokelat, bola cokelat) dan oksigen (gas yang jernih dan tidak
+                         berwarna, bola merah) bereaksi, atom-atom mereka diatur kembali untuk membentuk senyawa yang
+                                                    mengandung besi dan oksigen.
+                                             (Sumber : https://openintrochemistry.pressbooks.tru.ca/ )
+
+                     Namun, teori Dalton tidak dapat menjelaskan bagaimana atom yang diumpamakan sebagai
+
+               bola pejal dapat menghantarkan arus listrik. Padahal, listrik adalah elektron yang bergerak.
+
+                                                   GOOGLE FORM 2
+                                                      (Aktivitas 1.3)]]></page><page Index="12"><![CDATA[5    Unit 1 : Perkembangan Teori Atom
+
+
+
+               Teori Atom Thomson
+
+                                       Jika materi terdiri dari atom, apa penyusun dari atom itu sendiri? Apakah
+
+                                 mereka partikel terkecil, atau ada sesuatu yang lebih kecil? Pada akhir abad ke-
+
+                                 19,  sejumlah  ilmuwan  yang  tertarik  pada  pertanyaan  seperti  ini  menyelidiki
+                                 pelepasan listrik yang dapat dihasilkan dalam gas bertekanan rendah, dengan
+                                 penemuan  paling  signifikan  dibuat  oleh  fisikawan  Inggris,  J.  J.  Thomson
+
+                                 menggunakan tabung sinar katoda. Hasil pengukuran ini menunjukkan bahwa
+
+                   Gambar 1.5     partikel-partikel tersebut jauh lebih ringan daripada atom (Gambar 1.6).
+                Joseph John Thomson,
+                  Penemu Elektron
+                     (Sumber :
+                https://en.wikipedia.org/wiki/
+                   J._J._Thomson )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     Gambar 1.6 J. J. Thomson menghasilkan sinar yang terlihat dalam tabung sinar katoda (warna kuning).
+                                                (Sumber : https://www.epanrita.com/)
+
+               Sinar katode (+) meninggalkan katode, atau elektroda negatif, dan dipercepat menuju anoda, atau
+               elektroda positif. Beberapa sinar melewati lubang di anoda untuk membentuk suatu sinar, yang
+
+               kemudian dibelokkan oleh pelat-pelat listrik di dalam tabung. Pekerjaan ini mencapai puncaknya
+               pada tahun 1897 dengan penemuan elektron. Thomson dianugerahi Hadiah Nobel dalam fisika
+
+               pada tahun 1906.
+                     Berdasarkan pengamatannya, inilah yang Thomson usulkan dan alasannya:
+
+                 “Partikel-partikel ditarik oleh muatan positif (+) dan ditolak oleh muatan negatif (−), sehingga mereka harus bermuatan negatif
+                (muatan sejenis menolak dan muatan tak sejenis tertarik); mereka kurang massif daripada atom dan tidak dapat dibedakan, terlepas
+                 dari bahan sumbernya, sehingga mereka harus menjadi konstituen subatomik mendasar dari semua atom. Meskipun kontroversial
+                 pada saat itu, gagasan Thomson secara bertahap diterima, dan partikel sinar katoda-nya kini kita sebut sebagai elektron, partikel
+                               subatomik bermuatan negatif dengan massa lebih dari seribu kali lebih kecil dari atom”.]]></page><page Index="13"><![CDATA[Unit 1 : Perkembangan Teori Atom   6
+
+
+
+                     Pada tahun 1909, informasi lebih lanjut tentang elektron ditemukan oleh fisikawan Amerika,
+
+               Robert A. Millikan, melalui eksperimen "tetesan minyak". Millikan menciptakan tetesan minyak
+               mikroskopis, yang dapat diisi muatan listrik oleh gesekan saat terbentuk atau dengan menggunakan
+
+               sinar-X. Tetesan-tetesan ini awalnya jatuh karena gravitasi, tetapi kemajuannya ke bawah dapat
+               diperlambat atau bahkan dibalik oleh medan listrik di bagian bawah alat. Dengan menyesuaikan
+
+               kekuatan medan listrik dan melakukan pengukuran dan perhitungan yang tepat, Millikan dapat
+               menentukan muatan pada tetesan-tetesan individual (Gambar 1.7).
+
+
+
+
+                                                                                 Pengatomisasi
+                                                                                 (Atomizer)
+
+                                Partikel Minyak
+
+                                   Sinar X                                      Plat logam
+                               (Radiasi Ionisasi)                             bermuatan (+)
+
+                                                                              Mikroskop
+                                                                               Plat logam
+                                                                              bermuatan (-)
+                                 Partikel Minyak
+                                     Bermuatan
+
+
+                                           Gambar 1.7 Percobaan Tetes Minyak Milikan
+                                                  Sumber : https://www.dictio.id/
+
+               Dari  eksperimennya,  Thomson  juga  dapat  menghitung  rasio  massa  elektron  terhadap  muatan
+               listriknya.  Namun,  dia  tidak  bisa  mendapatkan  massa  atau  muatan  secara  terpisah.  Dari  jenis
+
+                                                                                    -19
+               eksperimen  ini,  muatan  pada  elektron  ditemukan  sebesar  1,602  x  10   koulomb  (koulomb,
+               disingkat C, adalah satuan muatan listrik), dengan massa elektron sebesar 9,109 x 10  kg, yang
+                                                                                               -31
+               lebih dari 1800 kali lebih kecil dari massa atom teringan (hidrogen). Hal ini menunjukkan dengan
+
+               jelas bahwa elektron memang merupakan partikel subatom.
+
+                                                                                      -31
+                                                         -19
+                              Massa elektron = 1,602 x 10  C x     1        = 9,109 x 10  kg
+                                                               1,759    10 11   
+
+               Para ilmuwan sekarang telah menetapkan bahwa berkat karya Thomson, Millikan, dan ilmuwan
+               lain, muatan dan massa dari partikel subatomik negatif—elektron—telah diketahui. Namun, bagian
+
+               bermuatan positif dari atom belum dipahami dengan baik.
+                     Pada tahun 1904, Thomson mengusulkan model atom seperti "plum pudding" atau roti kismis
+
+               (Gambar 1.8), yang menggambarkan massa bermuatan positif dengan jumlah muatan negatif yang
+               sama dalam bentuk elektron tertanam di dalamnya, karena semua atom bersifat netral.]]></page><page Index="14"><![CDATA[7    Unit 1 : Perkembangan Teori Atom
+
+
+                                                                Partikel positif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                Elektron
+
+                        Gambar 1.8 Model Atom J.J. Thomson seperti Plum Pudding atau Dikenal dengan Roti Kismis
+                                               Sumber : https://www.khanacademy.org/
+
+
+
+               Teori Atom Rutherford
+
+                                        Ernest  Rutherford,  seorang  fisikawan  dari  Selandia  Baru  melakukan
+
+                                  serangkaian percobaan menggunakan suatu aliran partikel alfa (α) bermuatan
+                                  positif  yang  berkecepatan  tinggi  yang  dihasilkan  oleh  peluruhan  radioaktif
+
+                                  Radium; partikel α terdiri dari dua proton dan dua neutron. Rutherford dan
+                                  rekan-rekannya  Hans  Geiger,  serta  Ernest  Marsden  mengarahkan  aliran
+
+                                   partikel α, sumbernya tertanam dalam blok timah untuk menyerap sebagian
+                   Gambar 1.9
+                 Ernest Rutherford,   besar radiasi, pada selembar foil emas yang sangat tipis dan memeriksa hasil
+                 Penemu konsep inti
+                      atom         hamburan  partikel  α  menggunakan  layar  yang  berpendar  sejenak  ketika
+                     (Sumber :
+                 https://en.wikipedia.org/)
+                                   terkena  partikel  α.  Apa  yang  mereka  temukan?  Sebagian  besar  partikel
+                                   melewati  foil  tanpa  sedikitpun  dibelokkan.  Namun,  beberapa  partikel
+
+               dibelokkan sedikit, dan sejumlah kecil partikel dibelokkan hampir lurus kembali ke arah sumbernya
+               (Gambar 1.10).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Gambar 1.10 Skema Eksperimen Hamburan Sinar Alfa
+                                              (Sumber : https://roboguru.ruangguru.com/)]]></page><page Index="15"><![CDATA[Unit 1 : Perkembangan Teori Atom   8
+
+
+
+               Karena sebagian besar partikel α yang bergerak cepat melewati atom-atom emas tanpa dibelokkan,
+
+               artinya partikel telah melalui ruang hampa dalam atom. Partikel alfa bermuatan positif, sehingga
+               pembelokan terjadi ketika bertemu dengan muatan positif lainnya (muatan sejenis saling tolak-
+
+               menolak). Oleh sebab itu, Rutherford membuat model atom seperti tata surya (Gambar 1.11).
+               Rutherford  berjasa  mengenalkan  konsep  lintasan  atau  kedudukan  elektron  yang  kelak  disebut
+
+               dengan kulit atom. Namun model atom Rutherford tidak dapat menjelaskan mengapa elektron
+               tidak jatuh ke dalam inti atom.
+
+
+
+
+
+                                                                         ORBIT / KULIT ATOM
+
+
+                                       NUKLEUS
+
+
+
+
+
+
+
+                                              Gambar 1.11 Model Atom Rutherford
+                                                    (Sumber : https://posi.id/ )
+
+                                                   GOOGLE FORM 3
+
+                                                      (Aktivitas 1.4)]]></page><page Index="16"><![CDATA[9    Unit 1 : Perkembangan Teori Atom
+
+
+
+               Teori Atom Bohr
+
+                                          Niels Bohr adalah orang pertama yang menjelaskan secara kuantitatif
+
+                                   struktur atom hidrogen dan spektrumnya. Dia menggunakan konsep Planck
+
+                                   tentang  kuantisasi  energi.  Meskipun  teori  ini  bukan  mekanika  kuantum
+                                   modern, tetapi masih dapat digunakan untuk memperjelas banyak poin dalam
+                                   struktur  atom  dan  spektra  kimia.  Model  Bohr  untuk  atom  hidrogen
+
+                                   didasarkan pada postulat-postulat berikut:
+                   Gambar 1.12
+                    Niels Bohr,
+                 Peraih Nobel Fisika   i)  Elektron  dalam  atom  hidrogen  dapat  bergerak  mengelilingi  inti  dalam
+                      1922
+                     (Sumber :    lintasan lingkaran dengan radius dan energi tetap. Lintasan-lintasan ini disebut
+                 https://ahf.nuclearmuseu
+                      m.org/ )
+                                  orbit, dengan dua jenis keadaan yakni statis dan tereksitasi.
+               ii) Energi dari elektron dalam orbit tidak berubah seiring waktu. Namun, saat terjadi penyerapan
+
+               energi, elektron akan berpindah dari keadaan statis dengan tingkat energi rendah ke keadaan statis
+               yang energinya lebih tinggi atau energi dipancarkan ketika elektron bergerak pada keadaan statis
+
+               dari tingkat energi tinggi ke rendah. Perubahan energi tidak terjadi secara kontinu.
+               Model atom Bohr diberikan pada Gambar 1.13.
+
+
+                                                                           Kulit N
+                                                                           Kulit M
+
+                                                                           Kulit L
+
+                                                                           Kulit K
+                                                                           Muatan Inti
+                                                                           Positif
+
+
+
+
+
+
+                                                Gambar 1.13 Model Atom Bohr
+                                                      (Sumber : Byjus.com)
+
+                     Dibanding dengan model atom Rutherford, model Bohr dapat menjelaskan kestabilan dan
+               spektrum garis atom hidrogen dan ion mirip hidrogen (misalnya, He , Li , Be , dan sebagainya).
+                                                                                   2+
+                                                                               +
+                                                                                        3+
+               Namun, model Bohr terlalu sederhana untuk menjelaskan poin-poin berikut ini:
+                  •   Model ini  gagal  menjelaskan detail-detail  lebih  halus (dua  garis yang  sangat rapat) dari
+                      spektrum atom hidrogen yang  diamati  dengan menggunakan teknik  spektroskopi  yang
+
+                      canggih.
+                  •   Model ini juga tidak dapat menjelaskan spektrum atom selain hidrogen, misalnya atom
+
+                      helium yang hanya memiliki dua elektron.]]></page><page Index="17"><![CDATA[Unit 1 : Perkembangan Teori Atom   10
+
+
+
+                  •   Selanjutnya,  teori  Bohr  juga  tidak  dapat  menjelaskan  pemisahan  garis  spektrum  dalam
+
+                      keberadaan medan magnet (efek Zeeman) atau medan listrik (efek Stark). Teori ini tidak dapat
+                      menjelaskan kemampuan atom untuk membentuk molekul melalui ikatan kimia.
+
+               Dengan  kata  lain,  dengan  mempertimbangkan  poin-poin  yang  disebutkan  di  atas,  kita
+               membutuhkan teori yang lebih baik yang dapat menjelaskan fitur-fitur penting dari struktur atom
+
+               yang kompleks.
+
+
+                                                   GOOGLE FORM 4
+                                                      (Aktivitas 1.5)]]></page><page Index="18"><![CDATA[11   Unit 1 : Perkembangan Teori Atom
+
+
+
+
+               Teori Atom Modern / Mekanika Kuantum
+
+                                        Dengan  adanya  kekurangan  model  Bohr,  upaya  dilakukan  untuk
+
+                                   mengembangkan model yang lebih sesuai dan umum untuk atom.  Sebuah
+                                   perkembangan  penting  yang  memberikan  kontribusi  signifikan  dalam
+
+                                   perumusan model semacam  ini  adalah  Prinsip Ketidakpastian Heisenberg.
+
+                    Gambar 1.14    Prinsip ini meniadakan keberadaan jalur atau lintasan pasti dari elektron dan
+                  Erwin Schrödinger,
+                  Ahli Teori Mekanika   partikel  serupa  lainnya.  Jalur  suatu  objek  ditentukan  oleh  lokasi  dan
+                     Kuantum
+                  (Sumber : https://astro-  kecepatannya pada berbagai momen. Sehingga, pernyataan yang tepat tentang
+                   hmdfui.medium.com/)
+               posisi  dan  momentum  elektron  harus  diganti  dengan  pernyataan  tentang  probabilitas  bahwa
+               elektron berada pada suatu posisi dan memiliki momentum tertentu. Inilah yang terjadi dalam
+
+               model mekanika kuantum dari atom.
+                     Terlihat sudah alasan kegagalan model Bohr yakni karakter gelombang dari elektron tidak
+
+               dipertimbangkan. Selain  itu, sebuah orbit adalah jalur yang  jelas terdefinisi dan jalur ini  dapat
+               sepenuhnya didefinisikan hanya jika posisi dan kecepatan elektron diketahui secara tepat pada saat
+
+               yang sama. Oleh karena itu, tidak hanya mengabaikan sifat ganda materi, tetapi juga bertentangan
+
+               dengan prinsip ketidakpastian Heisenberg. Prinsip tersebut kurang lebih berbunyi:
+
+
+                 "Tidak mungkin dapat ditentukan kedudukan dan momentum suatu benda secara seksama pada saat
+                bersamaan, yang dapat ditentukan adalah kebolehjadian menemukan elektron pada jarak tertentu dari inti
+                                                          atom."
+
+               Awan elektron di sekitar inti menunjukkan tempat kebolehjadian ditemukannya elektron yang
+
+               disebut  orbital  dimana  orbital  menggambarkan  tingkat  energi  elektron.  Orbital-orbital  dengan
+               tingkat energi yang sama atau nyaris sama akan membentuk sub-kulit. Kumpulan beberapa sub-
+
+               kulit akan membentuk kulit. Dengan demikian, kulit terdiri dari beberapa sub-kulit, dan sub-kulit
+               terdiri dari beberapa orbital.]]></page><page Index="19"><![CDATA[Unit 1 : Perkembangan Teori Atom   12
+
+
+
+
+                                                  LIVEWORKSHEET 2
+                                                   (Aktivitas 1.6 dan 1.7)]]></page><page Index="20"><![CDATA[13   Unit 1 : Perkembangan Teori Atom
+
+
+
+               Tabel Periodik
+
+                     Tabel periodik  atau dikenal Sistem Periodik Unsur (SPU) adalah susunan unsur kimia yang
+               diurutkan berdasarkan nomor atomnya, sehingga sifat periodik kimia suatu unsur menjadi jelas.
+
+               Unsur-unsur  dalam  tabel  periodik  dikelompokkan  ke  dalam  2  jenis  golongan  (vertikal),  yakni
+               Golongan utama (Gol. A) dan Golongan transisi (Gol. B), serta 7 periode (horizontal). Golongan
+
+               menunjukkan jumlah elektron valensi (elektron di kulit terluar), sedangkan periode menunjukkan
+               jumlah kulit yang terisi elektron. Tampilan SPU diberikan pada Gambar 1.15.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Gambar 1.15 Tampilan SPU
+                                                (Sumber : https://sciencenotes.org/  )
+
+               Secara umum, setiap kotak unsur yang terdapat dalam SPU memuat lambang, nama unsur, nomor
+
+               atom, dan nomor massa. Secara jelas penampakan sebuah unsur tersebut diberikan pada Gambar
+               1.16.
+
+
+
+
+
+
+
+
+
+
+
+                                                 Gambar 1.16 Tampilan SPU
+                                                 (Sumber : https://id.pinterest.com/ )]]></page><page Index="21"><![CDATA[Unit 1 : Perkembangan Teori Atom   14
+
+
+
+
+                                                  LIVEWORKSHEET 3
+                                                      (Aktivitas 1.8)]]></page><page Index="22"><![CDATA[15   Unit 1 : Perkembangan Teori Atom
+
+
+
+
+
+               D.    Rangkuman
+
+
+
+
+
+                        1)  Model Atom Dalton memiliki beberapa postulat tentang atom yakni partikel
+
+                             yang tidak dapat dibagi lagi menjadi bagian sederhana, biasa dikenal dengan bola
+                             pejal.
+
+                        2)  Model  Atom  Thomson  dengan  percobaan  tabung  sinar  katoda  menyatakan
+                             bahwa atom adalah bola positif yang di dalamnya tersebar elektron seperti roti
+                             kismis.
+
+                        3)  Model Atom Rutherford dengan percobaan hamburan sinar Alfa menemukan
+                             bahwa atom memiliki inti yang mengandung proton dan neutron, di sekitarnya
+                             berputar elektron.
+
+                        4)  Model Atom Bohr menyatakan bahwa elektron bergerak dalam lintasan tetap
+                             mengelilingi inti atom, dengan energi tertentu pada setiap lintasan.
+
+                        5)  Model Atom Modern/Mekanika Kuantum menurut Schrodinger dengan prinsip
+                             ketidakpastian Heisenberg bahwa atom terdiri dari inti yang dikelilingi oleh awan
+                             elektron yang menunjukkan probabilitas keberadaan mereka.
+
+                        6)  Proton  ditemukan  oleh  Rutherford  dan  Goldstein  yakni  partikel  subatomik
+                             bermuatan positif yang terdapat di inti atom.
+
+                        7)  Elektron merupakan partikel subatomik bermuatan negatif yang berada di luar
+                             inti atom (kulit) yang ditemukan oleh J.J Thomson.
+
+                        8)  Neutron  adalah  partikel  subatomik  netral  yang  berada  di  inti  atom  bersama
+                             proton yang ditemukan James Chadwick.
+
+                        9)  Isotop  adalah  atom-atom  dari  satu  unsur  dengan  jumlah  proton  sama  tapi
+                             jumlah neutron berbeda.
+
+                        10)  Isobar adalah atom dengan massa yang sama tapi jumlah proton dan neutronnya
+                             berbeda.
+
+                        11)  Isoton  adalah  atom  dengan  jumlah  neutron  yang  sama  tapi  jumlah  proton
+                             berbeda.
+
+
+                        12)  Tabel periodik  memuat unsur-unsur yang disusun berdasarkan nomor atom,
+                             memiliki 2 jenis golongan dan 7 periode.
+
+                        13)  Massa rata-rata atom atau massa atom relatif (Ar) merupakan hasil kali fraksi
+                             kelimpahan isotop dengan massa satuan isotop.]]></page><page Index="23"><![CDATA[Unit 1 : Perkembangan Teori Atom   16
+
+
+
+               E.    Latihan Soal
+
+
+               Sebagai konfirmasi pemahamanmu terhadap atom, tentukan apakah pernyataan berikut
+
+               BENAR atau SALAH !
+                                                     WORDWALL 1]]></page><page Index="24"><![CDATA[17   Unit 1 : Perkembangan Teori Atom
+
+
+
+               F.    Tes Formatif
+
+
+                                                   GOOGLE FORM 5]]></page><page Index="25"><![CDATA[Unit 1 : Perkembangan Teori Atom   18
+
+
+
+               G.    Kunci dan Pembahasan
+
+
+               G.1  Kunci dan Pembahasan ‘Latihan Soal’
+
+               No.     Jawaban                                  Pembahasan
+                                     Thomson mengemukakan bahwa atom terdiri dari muatan positif dan
+                 1       Salah       muatan negative dan menganggap materi positif sebagai roti di mana
+                                     elektron tersebar di dalamnya.
+
+
+                                     Model atom Rutherford menunjukkan bahwa model atom seperti sistem
+                2        Benar
+                                     tata surya.
+
+                                     Kelemahan Teori Atom Niels Bohr adalah hanya mampu menjelaskan
+                3        Salah       spektrum atom sederhana seperti hidrogen dan tidak dapat menjelaskan
+                                     atom-atom yang lebih kompleks.
+
+
+                                     Isotop memiliki jumlah proton yang sama tetapi jumlah neutron yang
+                4        Salah
+                                     berbeda.
+
+                                     Model atom Bohr menggambarkan elektron bergerak dalam lintasan
+                5        Salah       tetap mengelilingi inti atom, bukan dalam awan probabilitas seperti yang
+                                     dijelaskan dalam mekanika kuantum.
+                6        Benar       Massa atom relatif Cu = (63 x 0,75) + (65 x 0,25) = 63,5 sma.
+
+
+                7        Salah       Jumlah proton = nomor atom.
+
+
+
+                                             2-
+                                     Anion Y  dengan jumlah elektron 18 memiliki proton 16, maka
+                8        Benar
+                                     neutronnya bernilai 10, karena 26-16=10.
+
+                                     Isoton menunjukkan jumlah neutron yang sama antara kedua atom, yakni
+                9        Benar
+                                     14-6 = 12-4 .
+
+
+                10       Salah       Jumlah proton kedua unsur sama sehingga tergolong isotop.
+
+
+
+               G.2   Kunci dan Pembahasan ‘Tes Formatif’
+               No.     Jawaban                                  Pembahasan
+                                     Pada eksperimen Rutherford dengan penembakan sinar alpha, beberapa
+                                     temuan signifikan ditemukan:
+                                      -  Sebagian besar partikel alpha (α) menembus lapisan emas tanpa
+                                         mengalami defleksi atau hanya mengalami sedikit defleksi.
+                 1         C
+                                      -  Tidak jarang, terjadi hamburan atau defleksi partikel α pada sudut
+                                         yang besar.
+                                      -  Dalam beberapa kasus, terjadi pemantulan kembali partikel α ke arah
+                                         dari mana mereka datang.]]></page><page Index="26"><![CDATA[19   Unit 1 : Perkembangan Teori Atom
+
+
+
+               No.     Jawaban                                  Pembahasan
+                                     Jumlah elektron pada atom A adalah 12, sedangkan jumlah elektron pada
+                2          E         atom B adalah 17. Apabila jumlah proton = jumlah elektronnya, maka
+                                     sifat atom tersebut netral (bermuatan nol)
+                                     Massa rata-rata isotop karbon dalam makanan yang diperoleh 12,01 sma.
+                                     Massa rata-rata atom C = (0,9889 x 12 sma) + (0,0111 x 13 sma) = 12,01
+                3          C
+                                     sma.
+
+                                     Menurut teori mekanika kuantum, posisi proton terletak pada inti atom,
+                4          C         sedangkan awan elektron menempati posisi dengan kebolehjadian
+                                     (probabilitas) tertentu.
+
+
+
+
+
+               H.  Refleksi Diri
+
+
+                                                  GOOGLE FORM 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       “Berpikirlah seperti proton, always positive thinking”
+
+
+                                                   ~ Anonim ~]]></page><page Index="27"><![CDATA[UNIT
+
+
+
+                                                                                             2
+                      Konfigurasi Elektron dalam Atom
+
+                                                                              B.  Tujuan Pembelajaran
+
+                                                                              1.  Membuat konfigurasi
+
+                                                                                 elektron suatu atom
+                                                                                 menurut Bohr dan
+                                                                                 Mekanika Kuantum.
+
+                                                                              2.  Mengevaluasi konfigurasi
+
+                                                                                 elektron dalam atom
+                                                                                 untuk memprediksi posisi
+                                                                                 atom dalam Sistem
+
+                                                                                 Periodik Unsur.
+                                                                              3.  Menganalisis bilangan
+                                                                                 kuantum elektron valensi
+
+                                                                                 pada atom untuk
+                                                                                 memprediksi posisi atom
+                                                                                 dalam Sistem Periodik
+
+                                                                                 Unsur.
+
+
+
+
+
+               B.    Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     VIDEO YOUTUBE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            20]]></page><page Index="28"><![CDATA[21   Unit 2 : Konfigurasi Elektron dalam Atom
+
+
+
+               C.    Lembar Aktivitas
+
+                     Pemahaman tentang struktur atom menjadi kunci dalam memahami sifat-sifat unsur kimia
+               dan hubungannya dengan sistem periodik. Model atom Bohr memberikan gambaran awal tentang
+
+               konfigurasi elektron dalam atom, menekankan pada konsep orbit elektron yang terpisah dengan
+               tingkat energi dalam atom. Namun, dengan perkembangan mekanika kuantum, pandangan ini
+
+               berkembang menjadi model yang lebih kompleks dan akurat. Mekanika kuantum menggambarkan
+               elektron sebagai partikel gelombang, yang memiliki probabilitas terhadap lokasi dan energinya.
+
+               Melalui pendekatan ini, harapannya Anda dapat membangun konsep struktur atom sebagai dasar
+               pengetahuan untuk lebih lanjut memahami sifat keperiodikan unsur pada materi selanjutnya. Selain
+
+               itu, kita juga dapat memprediksi posisi atom dalam SPU.
+
+
+                                                   GOOGLE FORM 7
+
+                                                      (Aktivitas 2.1)]]></page><page Index="29"><![CDATA[Unit 2 : Konfigurasi Elektron dalam Atom   22
+
+
+
+
+                                                   GOOGLE FORM 8
+                                                      (Aktivitas 2.2)]]></page><page Index="30"><![CDATA[23   Unit 2 : Konfigurasi Elektron dalam Atom
+
+
+
+
+                                                  LIVEWORKSHEET 4
+
+                                                      (Aktivitas 2.3)]]></page><page Index="31"><![CDATA[Unit 2 : Konfigurasi Elektron dalam Atom   24
+
+
+
+               D.    Rangkuman
+
+
+
+
+
+                                                                                    2
+                        1)    Konfigurasi elektron Bohr dihitung dengan persamaan 2n  yang menyatakan
+
+                              bahwa elektron mengorbit inti atom dalam orbit yang ditentukan, yang diatur
+                              oleh bilangan kuantum utama (Kulit K, L, M, N, dst).
+                        2)    Konfigurasi elektron Mekanika Kuantum diatur dengan tingkat energi (aturan
+
+                              Aufbau, Larangan Pauli, dan Kaidah Hund).
+                        3)    Terdapat empat bilangan kuantum, yakni :
+
+
+                              -  Bilangan Kuantum Utama (n) yang menunjukkan kulit atom.
+
+                              -  Bilangan Kuantum Azimut (l) yang menunjukkan bentuk orbital.
+
+                              -  Bilangan Kuantum Magnetik (m) yang menunjukkan orientasi orbital.
+
+
+                              -  Bilangan Kuantum Spin (s) yang menunjukkan arah rotasi elektron.
+
+
+
+
+
+
+               E.    Latihan Soal
+               Sebagai konfirmasi pemahamanmu terhadap konfigurasi elektron, tentukan apakah
+               pernyataan berikut BENAR atau SALAH !
+
+                                                      WORDWALL 2]]></page><page Index="32"><![CDATA[25   Unit 2 : Konfigurasi Elektron dalam Atom
+
+
+
+               F.    Tes Formatif
+
+                                                    GOOGLE FORM 9]]></page><page Index="33"><![CDATA[Unit 2 : Konfigurasi Elektron dalam Atom   26
+
+
+
+               G.    Kunci dan Pembahasan
+
+               G1.  Kunci dan Pembahasan ‘Latihan Soal’
+
+                No.      Jawaban                                 Pembahasan
+
+                                      Menurut model atom Bohr, elektron hanya dapat bergerak dalam orbit
+                  1        Salah
+                                      yang memiliki tingkat energi tertentu.
+
+
+                                      Bilangan kuantum utama (n) menentukan tingkat energi atau "shell"
+                  2        Salah
+                                      tempat elektron berada di sekitar inti atom.
+
+                                      Elektron dalam atom Bohr hanya dapat berpindah dari satu orbit ke
+                  3        Salah      orbit lainnya dengan menyerap atau melepaskan energi yang sama
+                                      dengan selisih energi antara kedua orbit tersebut.
+
+
+                                      Bilangan kuantum azimut (l) menentukan bentuk orbital dan
+                  4        Salah
+                                      menentukan subkulit tempat elektron berada.
+
+                                      Bilangan kuantum spin (s) menunjukkan arah rotasi intrinsik elektron
+                  5       Benar       sepanjang sumbunya, dan memiliki dua nilai yang mungkin, yaitu + ½
+                                      dan – ½ .
+                                      Salah satu keberhasilan utama model atom Bohr adalah kemampuannya
+                  6       Benar
+                                      menjelaskan spektrum emisi atom hidrogen.
+                                      Natrium benar memiliki konfigurasi 2  8  1, namun menempati periode
+                  7        Salah
+                                      3 dan golongan IA.
+
+
+                                                                                5
+                                                                             1
+                  8        Salah      Konfigurasi elektron yang tepat adalah 4s  3d .
+
+
+                  9       Benar       Unsur dengan nomor atom 15 memiliki elektron valensi 3s  3p .
+                                                                                             2
+                                                                                                3
+                                                               2
+                                      Apabila elektron valensi 4s  maka konfigurasi gas mulia yang dimiliki
+                 10       Benar
+                                      adalah 18Ar, sehingga nomor atomnya memiliki jumlah 18+2 = 20.
+
+
+
+               G2.  Kunci dan Pembahasan ‘Tes Formatif’
+
+                No.      Jawaban                                 Pembahasan
+
+                                      Unsur P dan Q terletak dalam satu periode yakni periode 3. Unsur P
+                                      memiliki elektron valensi 1, terletak pada periode 3, dan golongan IA.
+                  1         C
+                                      Unsur Q memiliki elektron valensi 7, terletak pada periode 3, dan
+                                      golongan VIIA.]]></page><page Index="34"><![CDATA[27   Unit 2 : Konfigurasi Elektron dalam Atom
+
+
+
+                No.      Jawaban                                 Pembahasan
+
+                                      Unsur A seharusnya memiliki konfigurasi 2  3.
+                                      Unsur B seharusnya memiliki konfigurasi 2  6.
+                  2         D
+                                      Unsur C seharusnya terletak pada periode 3.
+                                      Unsur E seharusnya terletak pada periode 4.
+
+
+                                      Unsur A seharusnya memiliki konfigurasi gas mulia 10Ne.
+                                      Unsur C seharusnya terletak pada golongan IIB.
+                  3          B
+                                      Unsur D seharusnya memiliki valensi 4s  3d  4p .
+                                                                               10
+                                                                           2
+                                                                                   5
+                                      Unsur E seharusnya memiliki konfigurasi gas mulia 36Kr.
+                                      Model kiri menunjukkan atom Mg yang bersifat netral, sedangkan
+                  4         D
+                                                                       2+
+                                      model kanan menunjukkan ion Mg .
+
+
+               H.  Refleksi Diri
+
+
+                                                  GOOGLE FORM 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   "Keindahan makhluk hidup bukanlah atom yang masuk ke
+
+
+               dalamnya, tetapi cara atom-atom itu disatukan." ~ Carl Sagan ~]]></page><page Index="35"><![CDATA[UNIT
+
+
+
+                                                                                             3
+                         Nanomaterial dan Aplikasinya
+
+                                                                              A. Tujuan Pembelajaran
+
+
+                                                                              1.  Membangun konsep
+                                                                                 nanomaterial serta potensi
+
+                                                                                 aplikasinya dalam
+                                                                                 berbagai bidang dalam
+                                                                                 kehidupan sehari-hari.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               B.    Pendahuluan
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    VIDEO YOUTUBE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            28]]></page><page Index="36"><![CDATA[29   Unit 3 : Nanomaterial dan Aplikasinya
+
+
+
+               C.    Lembar Aktivitas
+
+
+                                                    GOOGLE FORM 10
+
+                                                       (Aktivitas 3.1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            29]]></page><page Index="37"><![CDATA[Unit 3 : Nanomaterial dan Aplikasinya   30
+
+
+                                                    GOOGLE FORM 11
+
+                                                       (Aktivitas 3.2)]]></page><page Index="38"><![CDATA[31   Unit 3 : Nanomaterial dan Aplikasinya
+
+
+
+               D.    Rangkuman
+
+
+
+
+                         1)   Nanomaterial  memiliki  ukuran     yang  sangat  kecil,  satu  dimensi  eksternal
+                              berukuran  1-100  nm,  yang  memberikan  sifat-sifat  unik  dan  superior
+                              dibandingkan dengan material konvensional, memiliki luas permukaan yang
+                              besar, sehingga memungkinkan interaksi yang lebih efisien dengan lingkungan
+                              sekitarnya.
+
+
+                         2)   Nanoteknologi  adalah  manipulasi  materi  pada  skala  atomik  dan  skala
+                              molekuler yang berfokus pada desain dan pembuatan perangkat dan struktur
+                              yang sangat kecil.
+
+                         3)   Nanopartikel adalah partikel berukuran 1-100 nanometer.
+
+                         4)   Nanotube adalah tabung nano karbon dengan komposisi senyawa karbon yang
+                              berbentuk tabung berukuran nano.
+
+                         5)   Nanofiber adalah material berbentuk serat dari bahan polimer yang memilki
+                              diameter dengan rentang nanometer.
+
+                         6)   Keunggulan  nanomaterial  meliputi  kekuatan  yang  tinggi,  kekerasan,  dan
+                              elastisitas, membuatnya ideal untuk digunakan dalam berbagai aplikasi.
+
+                         7)   Nanofraksional adalah perawatan wajah yang memadukan radio frequency dan
+                              fractional sehingga efektif untuk memperbaiki, meremajakan kulit yang rusak,
+                              serta bersinergi untuk menstimulasi pembentukan kolagen dan regenerasi kulit.
+
+                         8)   Nanokeramik  adalah  salah  satu  cara  coating  yang  bisa  mempertahankan
+                              kondisi cat mobil, bahkan membuatnya tampil cemerlang dalam jangka waktu
+                              lama
+
+                         9)   Nanopestisida adalah pestisida yang terbuat dari partikel nano.
+
+                         10)  Dalam  bidang  pertanian,  nanomaterial  digunakan  dalam  formulasi  pupuk
+                              untuk  meningkatkan  penyerapan  nutrisi  oleh  tanaman  dan  merangsang
+                              pertumbuhan tanaman secara keseluruhan.
+
+                         11)  Dalam bidang kecantikan, nanomaterial seperti nanopartikel titanium dioksida
+                              digunakan  dalam  produk-produk  kosmetik  seperti  tabir  surya  untuk
+                              memberikan perlindungan UV yang lebih baik dan tekstur yang lebih halus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            31]]></page><page Index="39"><![CDATA[Unit 3 : Nanomaterial dan Aplikasinya   32
+
+
+               E.    Latihan Soal
+
+
+               Sebagai konfirmasi pemahamanmu terhadap nanomaterial, tentukan apakah pernyataan
+               berikut:
+
+
+
+                       A.    Kedua pernyataan benar dan saling berhubungan
+
+                       B.    Kedua pernyataan benar, namun tidak berhubungan
+
+                       C.    Pernyataan 1 benar, pernyataan 2 salah
+
+                       D.    Pernyataan 1 salah, pernyataan 2 benar
+
+                       E.    Kedua pernyataan salah
+
+
+
+
+
+                                                     WORDWALL 3]]></page><page Index="40"><![CDATA[33   Unit 3 : Nanomaterial dan Aplikasinya
+
+
+
+               F.    Tes Formatif
+
+
+
+                                                   GOOGLE FORM 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            33]]></page><page Index="41"><![CDATA[Unit 3 : Nanomaterial dan Aplikasinya   34
+
+
+               G.    Kunci dan Pembahasan
+
+
+
+               G1.  Kunci dan Pembahasan ‘Latihan Soal’
+                No.      Jawaban                                 Pembahasan
+
+                                      Luas permukaan yang besar pada nanomaterial memungkinkan lebih
+                  1         A         banyak interaksi dengan zat-zat di sekitarnya, sehingga meningkatkan
+                                      kemampuan katalitiknya dalam reaksi kimia.
+
+                                      Nanomaterial digunakan dalam pengiriman obat-target karena mampu
+                  2         A         mengarahkan obat secara spesifik ke tempat yang diinginkan dalam
+                                      tubuh, sehingga dapat mengurangi efek samping yang mungkin terjadi.
+                                      Nanomaterial digunakan dalam formulasi pupuk untuk meningkatkan
+                                      penyerapan nutrisi oleh tanaman dan merangsang pertumbuhan
+                  3         C         tanaman. Oleh karena itu, pernyataan 2 yang menyatakan bahwa
+                                      nanomaterial tidak memiliki efek terhadap pertumbuhan tanaman
+                                      adalah salah.
+                                      Nanomaterial digunakan dalam produk kosmetik untuk memberikan
+                                      perlindungan UV yang lebih baik, namun tidak semua nanomaterial
+                  4         B
+                                      menyebabkan iritasi kulit. Jadi, meskipun keduanya benar, tidak ada
+                                      hubungan sebab-akibat langsung antara keduanya.
+                                      Nanomaterial digunakan dalam pembuatan bahan bangunan karena
+                                      dapat meningkatkan daya tahan bahan bangunan terhadap cuaca
+                  5         A
+                                      ekstrem, seperti hujan dan sinar UV, sehingga keduanya benar dan
+                                      saling berhubungan.
+
+               G2.     Kunci dan Pembahasan ‘Tes Formatif’
+                No.      Jawaban                                 Pembahasan
+                                      Hal ini karena ukuran partikel nanometer pada logam emas membuat
+                                      luas permukaannya menjadi lebih besar, sehingga memungkinkan lebih
+                  1         B
+                                      banyak interaksi dengan oksigen di udara, yang menyebabkan logam
+                                      emas nano lebih sensitif terhadap oksidasi.
+
+                                      Pasangan yang tepat adalah 1 dan a, 2 dan c, 3 dan e, 4 untuk
+                  2         B         pengembangan sensor dan sistem pemantauan, 5 dan b, sedangkan d
+                                      pada bidang pertanian.
+                                      Kebanyakan orang mungkin akan memilih jawaban yang menunjukkan
+                                      peningkatan dalam hal produktivitas dan kualitas produk. Namun
+                                      dampak negative dari nanoteknologi malah dapat menurunkan
+                  3         E         produktivitas pertanian. Hal ini disebabkan penggunaan nanoteknologi
+                                      yang tidak terkontrol atau tidak bijaksana dapat merusak ekosistem
+                                      tanah dan menyebabkan degradasi lahan, yang pada gilirannya dapat
+                                      mengurangi produktivitas pertanian.
+                                      Data menunjukkan bahwa hasil panen mengalami kemunduran karena
+                                      pertumbuhan tanaman yang melambat dan kesulitan dalam penyerapan
+                                      nutrisi dari pupuk. Penggunaan nanoteknologi dalam pupuk dapat
+                                      membantu meningkatkan efisiensi penyerapan nutrisi oleh tanaman,
+                  4         A
+                                      sehingga memungkinkan pertumbuhan tanaman yang lebih baik dan
+                                      mengurangi kemungkinan kontaminasi dalam media tanam. Oleh
+                                      karena itu, jawaban yang tepat adalah A. Nanoteknologi dalam pupuk
+                                      agar lebih mudah diserap oleh tumbuhan.]]></page><page Index="42"><![CDATA[35   Unit 3 : Nanomaterial dan Aplikasinya
+
+
+
+               H.  Refleksi Diri
+
+
+                                                   GOOGLE FORM 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   “Nanoteknologi adalah gagasan yang kebanyakan orang tidak
+                                           percaya” ~ Ralph Merkle ~
+
+
+
+
+
+
+
+
+
+
+                                                            35]]></page><page Index="43"><![CDATA[KRITERIA KETERCAPAIAN TUJUAN PEMBELAJARAN
+                                                       (KKTP)
+
+
+
+
+                                                  Latihan Soal
+
+                 Kategori    Persentase Skor                            Deskripsi
+
+                    A        76% - 100%            Sangat baik, tidak perlu mengulang Latihan Soal
+
+
+                    B         50% - 75%                Baik, tidak perlu mengulang Latihan Soal
+
+                    C         26% - 50%               Cukup, sebaiknya mengulang Latihan Soal
+
+
+                    D         0% - 25%                  Kurang, perlu mengulang Latihan Soal
+
+
+
+
+
+                    Tes Formatif Rata-Rata =                                    +         +           x 100%
+                                                                            
+
+
+
+
+                 Kategori    Persentase Skor                            Deskripsi
+
+                    A        76% - 100%              Sangat paham, tidak perlu mengulang materi
+
+                    B         50% - 75%                   Baik, tidak perlu mengulang materi
+
+
+                    C         26% - 50%                   Cukup, sebaiknya mengulang materi
+
+                    D         0% - 25%                      Kurang, perlu mengulang materi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            36]]></page><page Index="44"><![CDATA[•    Atom                 :   Atom adalah penyusun materi yang terdiri dari inti atom dan elektron.
+               •    Aturan Aufbau        :   Aturan Aufbau menyatakan pengisian elektron pada orbital dimulai dari tingkat
+                                             energi terendah ke tingkat tertinggi
+
+
+
+
+
+
+               •    Bilangan kuantum     :   -   Bilangan kuantum adalah bilangan yang menyatakan kedudukan atau posisi
+                                                elektron  dalam  atom  yang  diwakili  oleh  suatu  nilai  yang  menjelaskan
+                                                kuantitas kekal dalam sistem dinamis.
+                                             -   Bilangan kuantum menggambarkan sifat elektron dalam orbital.
+               •    Bilangan kuantum     :   Bilangan kuantum azimut menyatakan bentuk orbital
+                   azimut (l)
+               •    Bilangan kuantum     :   Bilangan  kuantum  magnetik  menyatakan  orientasi  orbital  dalam  ruang  tiga
+                   magnetik (m)              dimensi
+               •    Bilangan kuantum     :   Bilangan kuantum spin menyatakan arah perputaran elektron
+                   spin (s)
+               •    Bilangan kuantum     :   Bilangan kuantum utama menyatakan besarnya tingkat energi dan menunjukkan
+                   utama (n)                 jumlah kulit atom
+
+
+
+
+
+               •    Diagram orbital      :   Diagram  orbital  adalah deskripsi  gambaran  dari  elektron  yang  menempati
+                                             orbital-orbital atom.
+
+
+
+
+
+
+               •    Elektron             :   Elektron adalah partikel dalam atom yang bermuatan negatif dan mengelilingi
+                                             inti atom pada lintasan tertentu.
+               •    Elektron valensi     :   Elektron valensi menunjukkan jumlah elektron pada kulit terluar
+
+
+
+
+
+
+               •    Inti atom            :   Inti atom terletak pada pusat atom yang terdiri dari proton dan neutron.
+               •    Isobar               :   Isobar adalah unsur, kation, atau anion yang memiliki nomor massa sama tetapi
+                                             nomor atom berbeda
+               •    Isoton               :   Isoton adalah unsur, kation, atau anion yang memiliki nomor atom dan nomor
+                                             massa berbeda tetapi jumlah neutron sama
+
+
+
+
+                                                            37]]></page><page Index="45"><![CDATA[•    Isotop               :   Isotop adalah unsur, kation, atau anion yang memiliki nomor atom sama tetapi
+                                             nomor massa berbeda
+
+
+
+
+
+
+               •    Kaidah Hund          :   Kaidah  Hund  menyatakan  jika  terdapat  dua  atau  lebih  orbital  dengan  energi
+                                             sama, elektron akan menempatinya secara tunggal sebelum mengisinya secara
+                                             berpasangan.
+               •    Katalis              :   Kemampuan  nanomaterial  untuk  mempercepat  laju  reaksi  kimia  tanpa
+                                             dikonsumsi  dalam  reaksi  tersebut,  yang  dapat  dimanfaatkan  dalam  produksi
+                                             industri, konversi energi, dan pengolahan limbah.
+               •    Konfigurasi elektron   :   Konfigurasi  elektron  menggambakan  penataan  elektron-elektron  dalam  suatu
+                                             atom
+
+               •    Kulit atom           :   Kulit atom yakni daerah kebolehjadian ditemukannya elektron
+
+
+
+
+
+
+                   Larangan Pauli        :   Larangan Pauli menyatakan tidak boleh dalam satu atom terdapat dua elektron
+               •                             dengan empat bilangan kuantum yang sama.
+
+
+
+
+
+
+               •    Nanocomposite        :   Material yang terdiri dari dua atau lebih komponen dengan salah satu komponen
+                                             berukuran dalam skala nanometer, yang memberikan sifat-sifat unik yang tidak
+                                             dimiliki oleh material tunggal.
+               •    Nanofiber            :   Serat halus dengan diameter dalam skala nanometer yang sering digunakan dalam
+                                             aplikasi material komposit, biomaterial, dan teknologi tekstil.
+               •    Nanomaterial         :   Bahan  atau  struktur  material  yang  memiliki  ukuran  dalam  skala  nanometer,
+                                             biasanya antara 1 hingga 100 nanometer dalam setidaknya satu dimensinya.
+               •    Nanopartikel         :   Partikel dengan ukuran dalam skala nanometer, yang memiliki sifat dan perilaku
+                                             yang berbeda dari partikel dalam skala makroskopis.
+
+               •    Nanoteknologi        :   Teknologi yang berkaitan dengan manipulasi dan  penggunaan material dalam
+                                             skala nanometer untuk tujuan pengembangan produk dan aplikasi baru.
+               •    Nanotube             :   Struktur silinder berbahan dasar karbon atau material lainnya dengan diameter
+                                             dalam skala nanometer dan panjang hingga mikrometer.
+
+               •    Neutron              :   Neutron adalah partikel tidak bermuatan dalam atom dan berada pada inti atom.
+               •    Nomor atom           :   Nomor  atom  menunjukkan  jumlah  proton  atau  jumlah  elektron  pada  atom
+                                             netral.
+               •    Nomor massa          :   Nomor massa menunjukkan penjumlahan proton dan neutron suatu atom
+               •    Notasi atom          :   Seperangkat  atau  sistem  lambang  (tanda)  yang  menggambarkan  bilangan
+                                             tentang atom, mencakup nomor atom dan nomor massa.
+
+
+
+                                                            38]]></page><page Index="46"><![CDATA[•    Orbit elektron       :   Orbit elektron adalah sebuah jalur yang berada di sekeliling nya nukleus yang
+                                             menjadi jalan atau jalur elektron.
+               •    Orbital elektron     :   Orbital elektron adalah daerah sekitar inti atom yang memiliki banyak elektron
+                                             sehingga kita dapat menemukannya di orbital elektron ini.
+
+
+
+
+
+
+               •    Percobaan            :   -   Percobaan  penghamburan  sinar alfa  bermuatan  positif  dilakukan  dengan
+                   penembakan sinar             menembakkan berkas sinar alfa ke lempeng emas yang sangat tipis. Ketika
+                                                ditembakkan,  ternyata  ada:  sebagian  besar  partikel  alfa  yang  diteruskan,
+                                                sebagian  kecil  partikel  alfa  dibelokkan,  dan  beberapa  partikel  alfa
+                                                dipantulkan.
+                                             Percobaan Rutherford menghasilkan kesimpulan bahwa sejumlah kecil partikel
+                                             alfa yang ditembakan ke lempeng emas dibelokan dengan sudut yang sangat besar
+                                             akibat inti atom yang dikelilingi oleh elektron.
+
+               •    Percobaan sinar      :   Percobaan sinar katode adalah percobaan yang melibatkan elektron dari suatu
+                   katoda                    gas yang dialirkan dari katoda menuju anoda sehingga elektron yang dimaksud
+                                             adalah partikel yang keluar dari katoda menuju anoda. Oleh karena itu, elektron
+                                             yang  dimaksud  pada  pecobaan  sinar  katoda  adalah  elektron  yang  keluar  dari
+                                             katoda.
+               •    Percobaan tetes      :   Tetes minyak milikan adalah merupakan percobaan yang menunjukkan bahwa
+                   minyak milikan            muatan  electron  bersifat  diskrit  yaitu  gaya  ke  bawah  pada  tetes  milikan
+                                             (percepatan  ke  bawah)  akan  terhambat  oleh  suatu  gaya  stokes  (gaya
+                                             penghambat).
+               •    Prinsip              :   Prinsip Ketidakpastian Heisenberg menyatakan bahwa kamu tidak bisa secara
+                   ketidakpastian            bersamaan  mengetahui  posisi  dan  kecepatan  sebuah  benda  secara  tepat.
+                                             Mengapa tidak? Karena semua hal di alam semesta memiliki sifat partikel dan
+                                             gelombang secara bersamaan.
+               •    Proton               :   -   Proton adalah partikel dalam atom yang bermuatan positif dan berada pada
+                                                inti atom.
+                                             Jumlah proton yang dimiliki atom menunjukkan nomor atom suatu unsur.
+
+
+
+
+
+               •    Teori atom Bohr      :   Keunggulan model atom Bohr adalah dapat menjelaskan mengapa elektron tidak
+                                             jatuh    ke     itu    dan     dapat     menjelaskan    tentang
+                                             spektrum atom hidrogen. Kelemahannya model   ini   hanya   dapat
+                                             menerangkan atom berelektron tunggal seperti atom hidrogen.
+               •    Teori atom Dalton    :   Teori  atom  Dalton  menyatakan  atom  adalah  zat  yang  tidak  dapat  dibagi  lagi
+                                             menjadi zat-zat yang lebih sederhana atau lebih kecil.
+               •    Teori atom           :   Teori  atom  Democritus  mengemukakan  bahwa atom  adalah  blok  penyusun
+                   Demokritus                semua materi yang tidak dapat dibagi, diubah, dihancurkan, dan selalu ada.
+
+
+
+                                                            39]]></page><page Index="47"><![CDATA[•    Teori atom Mekanika   :   Kelebihan yang pertama dari atom mekanika kuantum dapat menjelaskan posisi
+                   Kuantum                   peluang  ditemukannya  sebuah  elektron.  Kelebihan  yang  kedua  dari  atom
+                                             mekanika kuantum dapat menjelaskan mengenai posisi elektron saat mengorbit.
+                                             Kelemahannya  ialah  persamaan  model atom  mekanika  kuantum terbatas  dan
+                                             hanya bisa diterapkan pada atom yang berelektron tunggal dan partikel di dalam
+                                             suatu ruang. Pada sistem makroskopis yang ada di dalam suatu kumpulan atom,
+                                             model atom mekanika kuantum akan sulit diterapkan.
+               •    Teori atom           :   Teori  atom  Rutherford adalah  model  dimana  setiap  muatan  positif
+                   Rutherford                pada atom akan  terkonsentrasi  di  ruang  bernama  nukleus  atau  inti atom dan
+                                             dikelilingi  oleh  elektron  bermuatan  negatif  yang  melintasinya  sehingga
+                                             menambah besaran volume atom
+               •    Teori atom Thomson   :   -   Isi dari teori atom yang dimiliki oleh Thomson adalah sebuah bola pejal atau
+                                                bola biliar yang bermuatan positif yang memuat beberapa partikel bermuatan
+                                                negatif atau elektron. Elektron-elektron ini akan tersebar pada bola seperti
+                                                kismis pada roti.
+                                             -   Teori atom Thomson bisa disebut dengan sebutan teori roti kismis.
+
+
+
+
+
+
+
+
+                                        Di alam mikro, Atom berdansa
+
+                                     Keindahannya sungguh mempesona
+                                       Usai-lah sudah pembelajaran kita
+
+                                     Walau waktu berlalu, janganlah lupa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            40]]></page><page Index="48"><![CDATA[41]]></page><page Index="49"><![CDATA[Anonim.  (2012).  Nanotechnologies:  Principles,  Applications,  Implications  and  Hands-on  Activities  (A
+                     compendium for educators). Luxembourg: European Union.
+
+               Anonim.     (Tanpa   Tahun).    Chapter   2:   Atoms    Molecules    and   Ions,   (Online),
+                     (https://web.ung.edu/media/chemistry/Chapter2/Chapter2-
+                     AtomsMoleculesAndIons.pdf), diakses 6 Maret 2024.
+
+               Bishoftu.  Bogale,  Yiheyis.  Beshaw,  Habdolo  Esatu  Tamene.  (2019).  Module  For  General
+                     Chemistry.
+
+               Chang, Raymond. (2008). General Chemistry: The Essential Concepts (Fifth Edition). New York: Mc
+                     Graw Hill.
+
+               Corwin, Charles H. (2018). Introductory Chemistry: Concepts and Critical Thinking (8  Edition). USA:
+                                                                                          th
+                     Pearson Education
+
+               Damari, Ari., Isnawati, Luluk., Sufiaty, Any. (2023). Bupena Merdeka: IPA Kimia untuk SMA/MA
+                     Kelas X. Surabaya: Erlangga.
+
+               Ebbing, Darrell D., Gammon, Steven D.. (2009). General Chemistry (9  Edition). USA: Houghton
+                                                                                th
+                     Mifflin Company.
+
+               Jespersen, Neil D., Brady, James E., Hyslop, Alyson. (2012). Chemistry: The Molecular Nature of Matter
+                     (Sixth Edition). USA: John Wiley and Sons.
+
+               Learn    Now     Distance   Learning   College.   IGCSE     Chemistry   Lessons,   (Online),
+                     (https://www.learnnow.org.uk/igcse-chemistry-cie-science-online-course-distance-
+                     learning.html), diakses 5 Maret 2024.
+
+               Lehn, Jean-Marie. (2006). Nanomaterials and Nanochemistry. France: Springer
+
+               Milama, Burhanudin. Sabrina, Rahmah Nur. Yunita, Luki. (2022). Analysis of Questions in Chemistry
+                     Textbook Based on Critical Thinking Ability, JTK: Jurnal Tadris Kimiya 7, 1 (135-146)
+
+               Nuryadin, Bebeh Wahid. (2020). Pengantar Fisika Nanomaterial: Teori dan Aplikasi. Bandung: UIN
+                     Sunan Gunung Djati.
+
+               Trotta, Francesco. Mele, Andrea. (2019). Nanosponges: Synthesis and Applications (1  Edition). Wiley.
+                                                                                         st
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            42]]></page></pages></Search>
